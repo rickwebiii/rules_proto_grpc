@@ -180,10 +180,10 @@ VERSIONS = {
     },
     "io_grpc_grpc_java": {
         "type": "github",
-        "org": "grpc",
+        "org": "rickwebiii",
         "repo": "grpc-java",
-        "ref": "62e8655f1bc4dfb474afbf332ca7571c1454e6ef",  # Non-version release commit on 1.24.x branch until Maven HTTPS fix is merged to a release
-        "sha256": "920977aa6d5beeefdf6668848589319c85d5cf3570329bab4d1a04425546e9a1",
+        "ref": "v1.24.x",  # Non-version release commit on 1.24.x branch until Maven HTTPS fix is merged to a release
+        "sha256": "cca98ac5fd41da6c0c3d286469a1a735daffaf7a5435b6cdf65878f9a782c6ab",
     },
     "javax_annotation_javax_annotation_api": {
         "type": "jvm_maven_import_external",
